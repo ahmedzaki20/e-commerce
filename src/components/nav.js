@@ -24,7 +24,7 @@ function Navhead() {
       >
         <Container>
           <Link className="navbar-brand" to="/">
-            New title App
+            New title App 1
           </Link>
           <Navbar.Toggle aria-controls="basic-navbar-nav" />
           <Navbar.Collapse id="basic-navbar-nav">
