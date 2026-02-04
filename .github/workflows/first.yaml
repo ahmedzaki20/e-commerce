@@ -25,3 +25,6 @@ jobs:
     name: third job
     runs-on: ubuntu-latest
     needs: [job1, job2]
+    steps:
+      - name: step 1
+        uses: actions/checkout@v4
